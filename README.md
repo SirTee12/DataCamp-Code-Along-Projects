@@ -1,1 +1,1 @@
-This repository is a collection of code along projects done on DataCamp
+This repository is a collection of projects done on DataCamp
